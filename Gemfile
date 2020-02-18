@@ -30,4 +30,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # I am a test message!
+# I am a test message!
 

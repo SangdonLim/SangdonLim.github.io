@@ -1,0 +1,16 @@
+title: 'CV page - Sangdon Lim'
+description: ""
+url: "https://sdlim.com"
+base_url: ""
+
+header_pages:
+  - index.md
+  
+# Build settings
+markdown: kramdown
+remote_theme: SangdonLim/jekyll-theme-console
+#theme: jekyll-theme-console
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,10 +1,10 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i,700&subset=greek');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700&subset=greek');
 
 /**
  * Style variables
  */
-$base-font-family:     'Ubuntu Mono', monospace !default; /* The only choice available that has compatible glyph widths */
+$base-font-family:     'Roboto Mono', monospace !default; /* The only choice available that has compatible glyph widths */
 $base-font-size:       14px !default;
 $mobile-font-size:     18px !default;
 $base-line-height:     1.5 !default;
@@ -30,6 +30,8 @@ p, ul, ol { margin: 0px; color: $text-color; }
 a { text-decoration: underline; color: $link-color; word-break: break-word; }
 a:hover { color: $primary-color; }
 .primary-text { color: $primary-color; }
+code > span { font-family: $base-font-family; display: inline-block; width: 2ch; text-align: center; text-indent: 0; }
+code { font-family: $base-font-family; }
 
 /**
  * Layout

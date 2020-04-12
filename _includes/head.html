@@ -4,6 +4,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link href="/assets/css/all.css" rel="stylesheet">
   <link href="/assets/css/academicons.min.css" rel="stylesheet">
+  <script>
+    document.addEventListener("DOMContentLoaded", wrap_glyphs);
+    function wrap_glyphs() {
+      const secondP = document.getElementsByTagName('code');
+      for (i = 0; i < secondP.length; i++) {
+        const text = secondP[i].innerText;
+        const newText = text.split('').map( c => {
+          if (c != ' ') {
+            return (`<span>${c}</span>`);
+          } else {
+            return (c);
+          }
+        }).join('');
+        secondP[i].innerHTML = newText;
+      }
+    }
+  </script>
   <title>{{ site.title }}</title>
   {%- seo title=false -%}
   <link rel="stylesheet" type="text/css" href="{{ "/assets/main-grey.css" | relative_url }}">

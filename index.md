@@ -31,7 +31,7 @@ Research Assistant (2019S - present)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
 > General involvement with earned authorship.
 
-Research Assistant (2019S - present)
+Research Assistant (2019S - 2020S)
 > Secondary analysis of Women's Health Initiative (WHI) data.
 > Responsible for analysis in Mplus and SPSS, and data organization & management.
 
@@ -48,6 +48,8 @@ Research Assistant (2015 - 2016)
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Scholarships
+2020 : H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
+2020 : Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
 2019 : Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.
 2018 : Graduate School Recruitment Fellowship, Department of Educational Psychology, University of Texas at Austin.
 2017 : Travel Grant, BK21 PLUS, Ministry of Education, South Korea.

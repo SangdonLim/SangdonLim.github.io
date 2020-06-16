@@ -6,7 +6,7 @@
  */
 $base-font-family:     'Roboto Mono', monospace !default; /* The only choice available that has compatible glyph widths */
 $base-font-size:       14px !default;
-$mobile-font-size:     18px !default;
+$mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
 $base-color:           #a3a3a3 !default;
 $primary-color:        #e3e3e3 !default;
@@ -30,6 +30,9 @@ p, ul, ol { margin: 0px; color: $text-color; }
 a { text-decoration: underline; color: $link-color; word-break: break-word; }
 a:hover { color: $primary-color; }
 .primary-text { color: $primary-color; }
+@media only screen and (max-device-width: 500px) {
+  h1, p, ul { font-size: $mobile-font-size !important; }
+}
 code > span { font-family: $base-font-family; display: inline-block; width: 2ch; text-align: center; text-indent: 0; }
 code { font-family: $base-font-family; }
 

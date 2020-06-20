@@ -28,17 +28,15 @@ B.A. in Library & Information Science, 2015
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441)
 
 # Experience
-Research Assistant (2019S - present)
+* Research Assistant (2019S - present)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
 > General involvement with earned authorship.
-
-Research Assistant (2019S - 2020S)
+* Research Assistant (2019S - 2020S)
 > Secondary analysis of Women's Health Initiative (WHI) data.
 > Responsible for analysis in Mplus and SPSS, and data organization & management.
-
-Teaching Assistant, Statistical Analysis in Psychology, SKKU (2015F, 2016F)
-
-Research Assistant (2015 - 2016)
+* Teaching Assistant, Statistical Analysis in Psychology, SKKU (2015F, 2016F)
+>
+* Research Assistant (2015 - 2016)
 > Project PFHF : Test development for high-stake predictions.
 > Worked on fitting specialized IRT models to collected data.
 
@@ -49,11 +47,11 @@ Research Assistant (2015 - 2016)
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Scholarships
-2020 : H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
-2020 : Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
-2019 : Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.
-2018 : Graduate School Recruitment Fellowship, Department of Educational Psychology, University of Texas at Austin.
-2017 : Travel Grant, BK21 PLUS, Ministry of Education, South Korea.
-2016 : Scholarship, BK21 PLUS, Ministry of Education, South Korea.
-2015 : Graduate School Recruitment Fellowship, Department of Psychology, Sungkyunkwan University.
+* 2020: H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
+* 2020: Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
+* 2019: Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.
+* 2018: Graduate School Recruitment Fellowship, Department of Educational Psychology, University of Texas at Austin.
+* 2017: Travel Grant, BK21 PLUS, Ministry of Education, South Korea.
+* 2016: Scholarship, BK21 PLUS, Ministry of Education, South Korea.
+* 2015: Graduate School Recruitment Fellowship, Department of Psychology, Sungkyunkwan University.
 

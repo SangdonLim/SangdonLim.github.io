@@ -62,8 +62,7 @@ div { margin-top: 0.5em; }
 /**
  * Lists
  */
-:not(.menu) > ul { list-style: none; padding-left: 0em; list-style-type: none; list-style-position: inside; text-indent: 2ch; }
-blockquote { margin-block-start: 0em; margin-block-end: 0em; margin-inline-start: 2ch; }
+:not(.menu) > ul { list-style: none; padding-left: 0; list-style-type: none; list-style-position: inside; }
 
 /**
  * Header/Navigation
@@ -73,6 +72,28 @@ blockquote { margin-block-start: 0em; margin-block-end: 0em; margin-inline-start
 .menu ul li { display: inline; font-size: 4em; font-weight: bold; }
 .menu ul li a { text-decoration: none; }
 .menu ul li a:hover { text-decoration: none; color: $primary-color; }
+
+/**
+ * fine-tuning
+ */
+// h1:after { content: "\A\A"; white-space: pre; }
+// #education + p:after { content: "\A\A"; white-space: pre; }
+#publications + ul > li { text-indent: 2ch; }
+// #publications + ul > li:after { content: "\A\A"; white-space: pre; }
+#experience + ul > li { text-indent: 0; }
+#experience + ul > li > blockquote {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  margin-left: 2ch;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+// #experience + ul > li:after { content: "\A"; white-space: pre; }
+// #presentations + ul > li:after { content: "\A\A"; white-space: pre; }
+#presentations + ul > li { text-indent: 2ch; }
+#scholarships + ul > li { text-indent: 0; }
 
 /**
  * Form

@@ -17,9 +17,9 @@ University of Texas at Austin
 
 # Education
 Sungkyunkwan University (SKKU)
-M.A. in Psychology (Quantitative Methods), 2017
-B.A. in Psychology, 2015
-B.A. in Library & Information Science, 2015
+MA in Psychology (Quantitative Methods), 2017
+BA in Psychology, 2015
+BA in Library & Information Science, 2015
 
 # Publications
 * Lim, S. (2020). Review: A Course in Item Response Theory and Modeling with Stata, and Using R for Item Response Theory Model Applications. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [doi](https://doi.org/10.1080/10705511.2020.1740886)

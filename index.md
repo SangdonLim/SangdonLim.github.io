@@ -28,8 +28,12 @@ BA in Library & Information Science, 2015
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441)
 
 # Experience
-* Research Assistant (2019S - present)
+* Intern (2020Su - present)
+> Creative Measurement Solutions
+* Research Assistant (2019S - 2020S)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
+> General involvement with earned authorship.
+> Development of [PROsetta](https://cran.r-project.org/package=PROsetta) package for scale linking.
 > General involvement with earned authorship.
 * Research Assistant (2019S - 2020S)
 > Secondary analysis of Women's Health Initiative (WHI) data.

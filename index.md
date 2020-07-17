@@ -22,7 +22,8 @@ BA in Psychology, 2015
 BA in Library & Information Science, 2015
 
 # Publications
-* Lim, S. (2020). Review: A Course in Item Response Theory and Modeling with Stata, and Using R for Item Response Theory Model Applications. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [doi](https://doi.org/10.1080/10705511.2020.1740886)
+* Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (forthcoming). Living with a smoker and multiple health risk behaviors. *Annals of Behavioral Medicine*.
+* Lim, S. (2020). Review: A Course in Item Response Theory and Modeling with Stata, and Using R for Item Response Theory Model Applications. *Structural Equation Modeling: A Multidisciplinary Journal, 27*(4), 657-659. [doi](https://doi.org/10.1080/10705511.2020.1740886)
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2019). Living with a smoker, health risk behaviors, and adiposity: An analysis with middle-aged and older women. *Journal of Behavioral Medicine*. Advance online publication. [doi](https://doi.org/10.1007/s10865-019-00098-1)
 * **Lim, S.**, Jahng, S. (2019). Determining the number of factors using parallel analysis and its recent variants. *Psychological Methods, 24*(4), 452-467. [doi](https://doi.org/10.1037/met0000230)
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441)

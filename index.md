@@ -22,6 +22,7 @@ BA in Psychology, 2015
 BA in Library & Information Science, 2015
 
 # Publications
+* Holahan, C. J., Holahan, C. K., **Lim, S.**, Powers, D. A., North, R. J. (in press). Living with a smoker and physical inactivity across eight years in high-risk medical patients. *Behavioral Medicine*.
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2020). Living with a smoker and multiple health risk behaviors. *Annals of Behavioral Medicine*. [doi](https://doi.org/10.1093/abm/kaaa059)
 * Lim, S. (2020). Review: A Course in Item Response Theory and Modeling with Stata, and Using R for Item Response Theory Model Applications. *Structural Equation Modeling: A Multidisciplinary Journal, 27*(4), 657-659. [doi](https://doi.org/10.1080/10705511.2020.1740886)
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2020). Living with a smoker, health risk behaviors, and adiposity: an analysis with middle-aged and older women. *Journal of Behavioral Medicine, 43*, 850-858. [doi](https://doi.org/10.1007/s10865-019-00098-1)

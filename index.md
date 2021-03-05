@@ -47,6 +47,8 @@ BA in Library & Information Science, 2015
 > Worked on fitting specialized IRT models to collected data.
 
 # Presentations
+* Choi, S., **Lim, S.** (2021, January 29). Adaptive testing with complex test specifications. *Advanced technologies for adaptive testing* [Symposium]. 2nd International Workshop on Data Science, Tokyo, Japan. (Invited presentation)
+* Choi, S., **Lim, S.**, van der Linden, W. J. (2021, January 29). TestDesign: An optimal test design approach to constructing fixed and adaptive tests in R. *Advanced technologies for adaptive testing* [Symposium]. 2nd International Workshop on Data Science, Tokyo, Japan. (Invited presentation)
 * Holahan, C. K., Holahan, C. J., **Lim, S.**, Chen, Y. T., & Powers, D. A. (2019, November). Sociodemographic disadvantage, living with a smoker, and obesity in middle-aged and older women. Poster session accepted at the annual meeting of the Gerontological Society of America, Austin, TX.
 * Cheong, J., Jung, S., & **Lim, S.** (2018, May). Two-part modeling approach to mediation analysis for semi-continuous outcomes. Poster session presented at the annual convention of the Society for Prevention Research, Washington, DC.
 * Lim, S. (2017, May). `고유값 감쇠에 따른 평행분석 및 대안적 요인수 추정 알고리즘의 정확성 비교` [Accuracy of parallel analysis and its alternatives across eigenvalue attenuation]. Paper presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.

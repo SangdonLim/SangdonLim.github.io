@@ -78,21 +78,23 @@ div { margin-top: 0.5em; }
  */
 // h1:after { content: "\A\A"; white-space: pre; }
 // #education + p:after { content: "\A\A"; white-space: pre; }
-#publications + ul > li { text-indent: 2ch; }
+#education + p { margin-top: 1.5em; }
+#publications + ul > li { margin-top: 1.5em; }
 // #publications + ul > li:after { content: "\A\A"; white-space: pre; }
-#experience + ul > li { text-indent: 0; }
+#experience + ul > li { text-indent: 0; margin-top: 1.5em; }
 #experience + ul > li > blockquote {
   margin-block-start: 0;
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  margin-left: 2ch;
+  margin-left: 0;
   margin-bottom: 0;
   margin-top: 0;
 }
 // #experience + ul > li:after { content: "\A"; white-space: pre; }
 // #presentations + ul > li:after { content: "\A\A"; white-space: pre; }
-#presentations + ul > li { text-indent: 2ch; }
+#presentations + ul > li { margin-top: 1.5em; }
+#scholarships + ul > li:first-child { margin-top: 1.5em; }
 #scholarships + ul > li { text-indent: 0; }
 
 /**

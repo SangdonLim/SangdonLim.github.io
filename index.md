@@ -63,4 +63,3 @@ BA in Library & Information Science, 2015
 * 2017: Travel Grant, BK21 PLUS, Ministry of Education, South Korea.
 * 2016: Scholarship, BK21 PLUS, Ministry of Education, South Korea.
 * 2015: Graduate School Recruitment Fellowship, Department of Psychology, Sungkyunkwan University.
-

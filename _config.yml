@@ -11,7 +11,7 @@ markdown: kramdown
 remote_theme: SangdonLim/jekyll-theme-console
 #theme: jekyll-theme-console
 
-google_analytics: UA-33433182-4
+google_analytics: G-JDZTRNKWYF
 
 plugins:
   - jekyll-sitemap

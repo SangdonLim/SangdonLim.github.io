@@ -56,6 +56,7 @@ BA in Library & Information Science, 2015
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Scholarships
+* 2021: Graduate School Decentralized Continuing Fellowship, College of Education, University of Texas at Austin.
 * 2020: H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
 * 2020: Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
 * 2019: Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.

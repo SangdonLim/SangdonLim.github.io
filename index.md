@@ -49,6 +49,7 @@ BA in Library & Information Science, 2015
 > Worked on fitting specialized IRT models to collected data.
 
 # Presentations
+* Choi, S., **Lim, S.** (2021, June 8). Optimal Test Design Approach to Fixed and Adaptive Test Construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
 * Choi, S., **Lim, S.** (2021, January 29). Adaptive testing with complex test specifications. *Advanced technologies for adaptive testing* [Symposium]. 2nd International Workshop on Data Science, Tokyo, Japan. (Invited presentation) [url](http://www.ai.lab.uec.ac.jp/symposium2021/)
 * Choi, S., **Lim, S.**, van der Linden, W. J. (2021, January 29). TestDesign: An optimal test design approach to constructing fixed and adaptive tests in R. *Advanced technologies for adaptive testing* [Symposium]. 2nd International Workshop on Data Science, Tokyo, Japan. (Invited presentation) [url](http://www.ai.lab.uec.ac.jp/symposium2021/)
 * Holahan, C. K., Holahan, C. J., **Lim, S.**, Chen, Y. T., & Powers, D. A. (2019, November). Sociodemographic disadvantage, living with a smoker, and obesity in middle-aged and older women. Poster session presented at the annual meeting of the Gerontological Society of America, Austin, TX.

@@ -23,7 +23,7 @@ BA in Library & Information Science, 2015
 
 # Publications
 * Choi, S. W., **Lim, S.**, Schalet, B. D., Kaat, A. J., & Cella, D. (2021). PROsetta: An R Package for Linking Patient-Reported Outcome Measures. *Applied Psychological Measurement*. Advance online publication. [doi](https://doi.org/10.1177/01466216211013106)
-* Schalet, B. D., **Lim, S.**, Cella, D., Choi, S. W. (in press). Linking scores with patient-reported health outcome instruments: A validation study and comparison of three linking methods. *Psychometrika*.
+* Schalet, B. D., **Lim, S.**, Cella, D., Choi, S. W. (2021). Linking scores with patient-reported health outcome instruments: A validation study and comparison of three linking methods. *Psychometrika*. Advance online publication. [doi](https://doi.org/10.1007/s11336-021-09776-z)
 * Holahan, C. J., Holahan, C. K., **Lim, S.**, Powers, D. A., North, R. J. (2021). Living with a smoker and physical inactivity across eight years in high-risk medical patients. *Behavioral Medicine*. Advance online publication. [doi](https://doi.org/10.1080/08964289.2021.1889458)
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2020). Living with a smoker and multiple health risk behaviors. *Annals of Behavioral Medicine, 55*(4), 287-297. [doi](https://doi.org/10.1093/abm/kaaa059)
 * Lim, S. (2020). Review: A Course in Item Response Theory and Modeling with Stata, and Using R for Item Response Theory Model Applications. *Structural Equation Modeling: A Multidisciplinary Journal, 27*(4), 657-659. [doi](https://doi.org/10.1080/10705511.2020.1740886)
